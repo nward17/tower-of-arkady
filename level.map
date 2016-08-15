@@ -1,0 +1,532 @@
+[INTRO]
+map = =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+      =====================
+
+[TUTORIAL]
+ma1 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwwwwwwwdwww;'wwwwi
+      |oooooooooooooooooooi
+      |Kyoooooooooooooooooi
+      |VVVVVVVVVFVVVVVVVVVi
+      |fooooooooooooooooooi
+      |oooooooooooooooooooi
+      |AAoooooooooooooooooi
+      |*VVVVVVVVLVVVVVVVVVi
+      |oooooooooooooooooooi
+      |oooooooooooooooooooi
+      |oooooooooooooooooooi
+      |oooooooooooooooooooi
+      j---------P---------J
+      
+[LEVEL1]
+ma2 = =====================
+      T===================t
+      |WWW:"WWWWDWWWWWWWWWi
+      |www;'wawwdwwwwwwwwwi
+      |fo221oCKoooooooooooi
+      |oo@@!ocAAoAAooooAo\i
+      |oooooooCCoCc\\\\CF}i
+      |o\\\\\ovCoCo}}}}Cooi
+      |F{}}}}oovSv\\\\oC\oi
+      |ooo\\\FoA+A}}}}oC}oi
+      |ooo}}}oACoCo\\\\vAoi
+      |F\\\\\ovCoCo}}}}}Coi
+      |F}}}}}ooCoC\\o\\\coi
+      |F\\\\\\ovov{{o}}}ooi
+      |o}}}}}}ooooooooooooi
+      j---------P---------J
+
+m22 = =====================
+      T===================t
+      |WWW:"WWWWDWWWWWWWWWi
+      |www;'wwwwdwwwwwwwwwi
+      |KA133A21AoA21A321Aoi
+      |+C!##C@!CoC@!C#@!Coi
+      |fCoAoCooC+CooCSooCoi
+      |ocoCovooCoCoovoAoCoi
+      |oFoCoCooCovooAoCovoi
+      |oAoCoCoocoFoovoCoCoi
+      |oCococooAoAoooovoCoi
+      |oCo\\\\oCoCo\\\\oCoi
+      |oco}}}}oCoCo}}}}+coi
+      |ooo\\\\ovovo\\\\oooi
+      |ooo}}}}oFo+o}}}}oooi
+      j---------P---------J
+
+222 = =====================
+      T===================t
+      |WWWWWWWWWDWW:"WWWWWi
+      |wwwawwwwwdww;'wawwwi
+      |ooKCA3212o3214AvSooi
+      |o\\vC#@!@F#@!#Co\\oi
+      |o}}oCoAooo+oooCo}}oi
+      |\\\oC+CoAoA\\oCfoooi
+      |}}}oCoCoCoC{{ovFA\oi
+      |o\\\vovoCoCoooooC}oi
+      |o}}}Fooovovo\\\\Co\i
+      |+\\\o\\\oooo}}}}vo}i
+      |o{}}o}}}oo+++oooo\oi
+      |o\\\\\o\\\\\\\\\o}oi
+      |o}}}}}o}}}}{{}{}oooi
+      j---------P---------J
+
+[LEVEL2]
+ma3 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwwawwawdwww;'wwwwi
+      |ooooCooCooFooooooooi
+      |ooofvoocA23123321ooi
+      |oyAVAooov@#!@##@!yFi
+      |ooCSCoAo+oyo\\\\++oi
+      |yoCFCoCoyooo}}}}Kyoi
+      |oovovoCo\+oAoA\\\Aoi
+      |oyAoAovo}yoCoC}}}Coi
+      |ooCoCoCo\\oCoCoAoCoi
+      |yovovoCo}}FvoCoCoCoi
+      |oo\o\ov\\\\\oCoCoCoi
+      |oo}o}oo}}}}{ocovocoi
+      j---------P---------J
+
+
+m33 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwwwwwwadaww;'wwwwi
+      |foooooooCoCo\\\\\\Si
+      |y123212ovovo{{{{{{oi
+      |o!@#@!@oAoAo\\\\\\oi
+      |o321222FCoCo{{{{{{oi
+      |o#@!@@@oCocF\\\\\\oi
+      |y331121oCoCo}}}}}}oi
+      |o##!!@!ovKvy\\\\\\oi
+      |o321321oAoAo}}}}}}oi
+      |o#@!#@!yCyCo\\\\\\oi
+      |o323111oCoCo{}}{{}oi
+      |o#@#!!!ococoyooooooi
+      j---------P---------J
+
+333 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwawwwwawdwaw;'wwwwi
+      |fyCooooCooAvoooooooi
+      |oov\oAovo+voo+2o222i
+      |yoo}oCoooooooy@o@@@i
+      |\\\o+v+FAoo+\AF11A3i
+      |}}}oFoooCooF}Coo!C#i
+      |o\\\AoooCooAoCoyoCSi
+      |o}}}CF\\CooCoCoAoCoi
+      |\\\oCo}}voyVoVoCoCoi
+      |}}}oCooooooAoCoCovoi
+      |o\\\v\\\\\oCovovoooi
+      |o}}}o}}}}}oVoooyooKi
+      j---------P---------J
+
+
+[LEVEL3]
+
+ma4 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwwwwwawdwaw;'wwwwi
+      |ooA12ooCoooVKooA\\oi
+      |ooC!@oAcAoolFooC}}oi
+      |ooCoooCoCoAAAoACAo\i
+      |ooCAAoCoC+CcCoCcCo}i
+      |ooC*VoVoVoVoVovfv\oi
+      |ooAooololololoooF}oi
+      |ooC\\FAoAoVoVo\\\ooi
+      |ooC}}oCoCoFooo{}}ooi
+      |ooCoAovoCSC\\\ooo\\i
+      |oovoCooov+v}}}o\\{}i
+      |oooovoooooooooo}}ooi
+      j---------P---------J
+
+m44 = =====================
+      T===================t
+      |WWWWWWWWWDWWWWW:"WWi
+      |wwwawwwawdwawAw;'awi
+      |fooCoAovoAAvoCoooCKi
+      |\\oCoCoCoVoooVLAoCoi
+      |}}oCoCoCooo+oooCoCoi
+      |o\\voCoV\\\\\\\voCoi
+      |o}}ooCol}}}}}}}ooCoi
+      |oAo\\c\VVoAVVVVVLCoi
+      |oCo}}o}oFoCooo*Covoi
+      |oc112313oAvo\\\\ooFi
+      |oo!!@#!#oCoo}}}}oooi
+      |A+223132ov\\\\\\\\oi
+      |vS@@#!#@oo}}}}}}}}oi
+      j---------P---------J
+
+444 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwawwwwwdwww;'Awwwi
+      |fAoCoooooooooooCoAAi
+      |oCoC\A\\FALA\A\CoC*i
+      |ovov{V}{oVoV}V{vovoi
+      |oooooloooloooloooooi
+      |o\\\oAoAoAoAoAo\\\oi
+      |o{{{oVoVoVoVoVo{{{oi
+      |oooooooFoooFoooooooi
+      |oAoAoAoAoooAoAoALALi
+      |oCoCovovo\ovovoCoCoi
+      |ovoCo\\\o}o\\\oCoVoi
+      |ooSvo}}}ooo}}}oVKooi
+      j---------P---------J
+
+
+
+[LEVEL4]
+
+ma5 = =====================
+      T===================t
+      |WWWWWWWWWDWW:"WWWWWi
+      |wwwwwwwawdwa;'awwawi
+      |o23213ovAoAvooCooCKi
+      |o@#@!#ooVLCoooCooVLi
+      |oAyoooooooCoCoCooooi
+      |oCooAAAoCoCoVovoAo\i
+      |ovoyV*VoVoVoyoooCo}i
+      |oAoooFoololoA++ov\oi
+      |oCoo+++oVoAovoooo}oi
+      |ovooooooFoCoAo\\\\oi
+      |o\\\\\\\\oCoCo}}}{yi
+      |o{}{}{}{{oVoc\\\oooi
+      |ooooooofFoooo}}}ooSi
+      j---------P---------J
+
+m55 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwwwwwawdwaw;'wwwwi
+      |oooooooCAoAvfoooooyi
+      |oS\\\VLVVLCoo\\\yooi
+      |oo}}}yoooovo+{{{\\oi
+      |Co1223o\AFoo\\oo}}oi
+      |Co!@@#o{CoAo{{oAFAoi
+      |vo\\\AoovoCooooCoCoi
+      |oo}}}CAooov\\\oCoCoi
+      |o\\VLVv+Aoo}}}ovocoi
+      |o}}ooFooCoAAAo\C\\oi
+      |o\\\AAAovoCKvo{c{{oi
+      |o}}}*VVooovooooooooi
+      j---------P---------J
+
+555 = =====================
+      T===================t
+      |WWWWWWWWWDWWW:"WWWWi
+      |wwwawwwwwdwwA;'wwwwi
+      |oAov\\++oooovS\\Aooi
+      |oCoo{{yoooAFo+{{Vo+i
+      |oCoooooFALCyoooolooi
+      |oCoAAAAACoCAo\\\\\\i
+      |ovoCA*ACCoVvo{{{{{{i
+      |ooovoooCCoooo+++oyoi
+      |oAoooAovvoAoAooooooi
+      |ovVLVvooooCovofooCoi
+      |oooooooAooCooooooAoi
+      |oAo\\VLVAov\\\\\\voi
+      |ovo}}ooKvoo}}}}}}ooi
+      j---------P---------J
+
+[LEVEL5]
+ma6 = =====================
+      T===================t
+      |WWWWWWWWWWWWW:"WWWWi
+      |wwwwwwwwwwwww;'wwwwi
+      |oALAFFA22L22VooALAoi
+      |oCoCooC@@F@@CooCfCoi
+      |oCoCooCo90QoCooCoCoi
+      |oCoCooCo()qoCooCyCoi
+      |oCoCooCoooooCooCoCoi
+      |oCocooVVAAAVVooCoCoi
+      |oCoCooooV*VooooCoCoi
+      |oCoCooooooyooooCoCoi
+      |ovovo+++++++++oVoVoi
+      |ooooo\\\\\\\\\oooooi
+      |ooooo{}{}}}}}}oooooi
+      j---------P---------J
+
+
+      
+[TILESET]
+tileset = tilesettwo.png
+[S]
+name = seconds
+tile = 0,3
+
+[9]
+name = bomb
+tile = 0,6
+block = True
+[(]
+name = bomb
+tile = 0,7
+[0]
+name = bomb
+tile = 1,6
+block = True
+[)]
+name = bomb
+tile = 1,7
+[Q]
+name = bomb
+tile = 2,6
+block = True
+[q]
+name = bomb
+tile = 2,7
+
+[B]
+name = box
+tile = 3,0
+block = true
+
+[V]
+name = laserbox
+tile = 2,0
+block = true
+
+[y]
+name = crack
+tile = 0,3
+
+[*]
+name = laserswitch
+tile = 1,0
+
+[l]
+name = vertical laser
+tile = 0,0
+[L]
+name = horizontal laser
+tile = 0,3
+
+[+]
+name = gas
+tile =  2,3
+block = true
+[c]
+name = cabinet
+tile = 6,5
+[v]
+name = cabinet with chair
+tile = 9,4
+block = true
+[C]
+name = cabinet top
+tile = 6,4
+block = true
+[A]
+name = cabinet end
+tile = 7,4
+block = true
+[a]
+name = cabinet end wall
+tile = 7,5
+block = true
+
+[{]
+name = computer bottom with chair
+tile = 8,5
+block = true
+[}]
+name = computer bottom no chair
+tile = 9,5
+[\]
+name = computer top
+tile = 8,4
+block = true
+
+[:]
+name = board TL
+tile = 2,1
+block = true
+["]
+name = board TR
+tile = 3,1
+block = true
+[;]
+name = board BL
+tile = 2,2
+[']
+name = board BR
+tile = 3,2
+
+
+[1]
+name = cabinet
+tile = 0,4
+block = true
+[!]
+name = cabinet
+tile = 0,5
+
+[2]
+name = cabinet
+tile = 1,4
+block = true
+[@]
+name = cabinet
+tile = 1,5
+
+[3]
+name = cabinet
+tile = 2,4
+block = true
+[#]
+name = cabinet
+tile = 2,5
+
+[4]
+name = cabinet
+tile = 3,4
+block = true
+[$]
+name = cabinet
+tile = 3,5
+
+[5]
+name = cabinet
+tile = 4,4
+block = true
+[%]
+name = cabinet
+tile = 4,5
+
+[6]
+name = cabinet
+tile = 5,4
+block = true
+[^]
+name = cabinet
+tile = 5,5
+
+
+[T]
+name = Top Left
+tile = 0,10
+block = true
+[t]
+name = Top right
+tile = 2, 10
+block = true
+[j]
+name = Bottom Left
+tile = 0, 12
+block = true
+[J]
+name = Bottom Left
+tile = 2, 12
+block = true
+
+[F]
+name = fire
+tile = 0, 3
+
+
+[f]
+name = fireextinguisher
+tile = 0, 3
+
+
+[K]
+name = key
+tile = 0,3
+
+
+
+
+[P]
+name = player
+tile = 0,3
+player = true
+sprite = player.png
+
+[o]
+name = floor
+tile = 0, 3											
+[W]
+name = wall
+tile = 0,1
+block = true
+[w]
+name = lower wall
+tile = 0,2
+
+[D]
+name = upper door
+tile = 1,1
+block = true
+[d]
+name = lower door
+tile = 1,2
+
+[=]
+name = horizontal ceiling top
+tile = 1,10
+block = true
+[-]
+name = horizontal ceiling bottom
+tile = 1,12
+block = true
+
+[|]
+name = vertical left
+tile = 0,11
+block = true
+[i]
+name = vertical ceiling right
+tile = 2,11
+block = true
+
+
+[M]
+name = Pipe left
+tile = 6,8
+block = true
+[m]
+name = Pipe left
+tile = 6,9
+[E]
+name = Pipe right
+tile = 7,8
+block = true
+[e]
+name = Pipe right
+tile = 7,9
+
+[u]
+name = Water
+tile = 0,6
+block = true
+[u]
+name = Water
+tile = 1,6
+block = true
+[u]
+name = Water
+tile = 0,7
+[u]
+name = Water
+tile = 1,7
+
