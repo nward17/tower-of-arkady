@@ -1,5 +1,7 @@
 # Tower of Arkady
 
+## Tower of Arkady is a game that was developed as a group project at the University of Maine.
+
 
 ### SECTION 1. INTRODUCTION
 
